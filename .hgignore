@@ -1,0 +1,6 @@
+syntax: glob
+
+.idea/
+runtime/
+web/assets/
+.DS_Store

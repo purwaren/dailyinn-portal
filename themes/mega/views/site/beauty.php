@@ -34,7 +34,7 @@ $this->registerJsFile($this->theme->baseUrl.'/js/site-resto.js');
             <div class="col-md-12">
                 <div class="mg-gallery-container">
                     <ul class="mg-gallery" id="mg-gallery">
-                        <li><img src="<?= $this->theme->baseUrl ?>/images/sari-ayu.jpeg" alt="Panorama Sky Restaurant"></li>
+                        <li><img src="<?= $this->theme->baseUrl ?>/images/sari-ayu.jpeg" class="img-responsive" alt="Sari Ayu Halal Beauty Center"></li>
                     </ul>
                 </div>
             </div>

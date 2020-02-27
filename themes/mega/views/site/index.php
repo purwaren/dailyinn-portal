@@ -240,7 +240,7 @@ $this->title = 'Beranda';
 					<div class="col-sm-4">
 						<div class="mg-feature">
 							<div class="mg-feature-icon-title">
-								<i class="fa fa-shopping-cart   "></i>
+								<i class="fa fa-shopping-cart"></i>
 								<h3>Warly Plaza and Mart</h3>
 							</div>
 							<p>Various of famous F & B Outlets  that can be your choice for your  dining or meeting point with  friends / colleague.</p>
@@ -294,6 +294,7 @@ Very recommended guys</p>
 			<div class="col-md-6">
 				<h2 class="mg-sec-left-title">Our Partners</h2>
 				<ul class="mg-part-logos" id="mg-part-logos" style="text-align:center">
+                    <li><img src="<?= $this->theme->baseUrl ?>/images/moz5-logo.png" alt="Moz5 Salon Muslimah" class="img-responsive"></li>
                     <li><img src="<?= $this->theme->baseUrl ?>/images/logo-sari-ayu.jpeg" alt="Sari Ayu Halal Beauty Center" class="img-responsive"></li>
                     <li><img src="<?= $this->theme->baseUrl ?>/images/starbucks.png" alt="Starbucks Coffee"></li>
                     <li><img src="<?= $this->theme->baseUrl ?>/images/indomaret.png" alt="Indomaret"></li>
@@ -309,6 +310,13 @@ Very recommended guys</p>
 			<div class="col-md-5">
 				<h2 class="mg-sec-left-title">Recent News</h2>
 				<ul class="mg-recnt-posts">
+                    <li>
+                        <div class="mg-recnt-post">
+                            <div class="mg-rp-date">03 <div class="mg-rp-month">Jan</div> 2020</div>
+                            <h3><a href="#">Moz5 Salon Muslimah</a></h3>
+                            <p>Now Open, Moz5 Salon Muslimah. Aktifitas yang padat dan tuntutan peran yang tinggi, menyebabkan para muslimah perlu meluangkan waktu sejenak untuk rileks dan menyegarkan pikiran</p>
+                        </div>
+                    </li>
 					<li>
 						<div class="mg-recnt-post">
 							<div class="mg-rp-date">09 <div class="mg-rp-month">Dec</div> 2019</div>

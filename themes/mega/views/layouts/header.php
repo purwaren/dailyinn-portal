@@ -27,7 +27,8 @@ use yii\helpers\Html;
                             <li><?= Html::a('Rooms', ['site/static', 'page'=>'room'])?></li>
                             <li><?= Html::a('Lounge & Restaurant', ['site/static', 'page'=>'resto'])?></li>
                             <li><?= Html::a('Event &  Meeting', ['site/static', 'page'=>'meeting'])?></li>
-                            <li><?= Html::a('Beauty Center', ['site/static', 'page'=>'beauty'])?></li>
+                            <li><?= Html::a('Sariayu Beauty Center', ['site/static', 'page'=>'beauty'])?></li>
+                            <li><?= Html::a('Moz5 Salon Muslimah', ['site/static', 'page'=>'salon'])?></li>
                         </ul>
 					</li>
 					<li><?= Html::a('Gallery', ['site/static','page'=>'gallery'])?></li>
